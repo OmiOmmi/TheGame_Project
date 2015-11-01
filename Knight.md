@@ -3,6 +3,7 @@
 public class Knight extends Heros{
 
 	public Knight(){
+		job = "Knight";
 		hp = 3000;
 		mp = 1000;
 		atk = 150;
