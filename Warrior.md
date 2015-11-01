@@ -2,6 +2,7 @@
 public class Warrior extends Heros{
 
 	public Warrior(){
+		job = "warrior";
 		hp = 3000;
 		mp = 1000;
 		atk = 200;
