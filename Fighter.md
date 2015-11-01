@@ -3,6 +3,7 @@
 public class Fighter extends Heros{
 
 	public Fighter(){
+		job = "Fighter";
 		hp = 3000;
 		mp = 1000;
 		atk = 170;
