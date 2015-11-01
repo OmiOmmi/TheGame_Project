@@ -3,6 +3,7 @@
 public class Assassin extends Heros{
 
 	public Assassin(){
+		job = "Assassin";
 		hp = 2700;
 		mp = 1200;
 		atk = 170;
