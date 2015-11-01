@@ -3,6 +3,7 @@
 public class Archer extends Heros{
 
 	public Archer(){
+		job = "Archer";
 		hp = 2700;
 		mp = 1200;
 		atk = 220;
