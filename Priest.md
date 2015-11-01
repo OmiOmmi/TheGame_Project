@@ -3,6 +3,7 @@
 public class Priest extends Heros{
 
 	public Priest(){
+		job = "Priest";
 		hp = 2500;
 		mp = 1500;
 		atk = 0;
