@@ -3,6 +3,7 @@
 public class Wizard extends Heros{
 
 	public Wizard(){
+		job = "Wizard";
 		hp = 2500;
 		mp = 1500;
 		atk = 50;
